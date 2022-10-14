@@ -17,7 +17,7 @@ DLClus is an algorithm that uses free-text clustering techniques to segment stru
 
 [(Back to top)](#table-of-contents)
 
-This algorithm was developed as part of a bachelor's thesis investigating the use of clustering in the topical segmentation of data lakes.
+This algorithm was developed as part of a thesis investigating the use of clustering in the topical segmentation of data lakes.
 
 # Technologies
 
